@@ -8,3 +8,8 @@
 - conducted a phishing campaign (cloned a LinkedIn site, shared URL in an e-mail).
 - created and edited documents like Incident Response Plan, and Network security plan and flowchart.
 - organized an online quiz for employees to test their knowledge on cybersecurity.
+
+3. Changing MAC Address using Python Language
+- Changing MAC address using basic python script in Command Prompt
+- Changing MAC address using PyCharm in basic script
+- Adding functions and features to script using PyCharm
